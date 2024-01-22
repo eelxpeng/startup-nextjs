@@ -30,8 +30,8 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                  <p>Vista for Artificial General Intelligence, LLC.</p>
+                  <p>先锋通用人工智能公司</p>
                 </p>
                 <div className="flex items-center">
                   <a
@@ -200,10 +200,7 @@ const Footer = () => {
           <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
           <div className="py-8">
             <p className="text-center text-base text-body-color dark:text-white">
-              Template by UIdeck and{" "}
-              <a href="https://nextjstemplates.com" rel="nofollow noopener">
-                Next.js Templates
-              </a>
+              @ 2024 Vista Artificial General Intelligence LLC. All Rights Reserved.
             </p>
           </div>
         </div>
