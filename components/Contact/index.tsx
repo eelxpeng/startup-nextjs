@@ -15,7 +15,7 @@ const Contact = () => {
                 Need Help? Open a Ticket
               </h2>
               <p className="mb-12 text-base font-medium text-body-color">
-                Our support team will get back to you ASAP via email. Or send an email directly to <a href="mailto:lxp@vistagi.com">Vistagi</a>
+                Our support team will get back to you ASAP via email. For business/research collaboration, send an email directly to <a href="mailto:lxp@vistagi.com" className="emailLink">lxp@vistagi.com</a>
               </p>
               <form>
                 <div className="-mx-4 flex flex-wrap">

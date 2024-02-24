@@ -31,3 +31,20 @@
     @apply opacity-100;
   }
 }
+
+.styled-link {
+  color: blue;
+  font-weight: bold;
+  text-decoration: none;
+  /* Add more styles as needed */
+}
+.styled-list {
+  list-style-type: disc; /* Change to 'circle' or 'square' for different bullet styles */
+  /* Additional list styles can be added here */
+}
+
+.emailLink {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
