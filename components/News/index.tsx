@@ -16,6 +16,13 @@ const News = () => {
           <ul className="list-none pl-0">
             <li className="mb-4 border-l-4 border-blue-500 pl-4 leading-6">
                 <strong className="text-blue-500">2024-02-17:</strong> We released{' '}
+                <a className="text-blue-500" href="https://marketplace.visualstudio.com/items?itemName=Vistagi.vista-code-agent">
+                Vista Code Agent
+                </a>{', '}
+                code agent that does more than just completing your code or answering your questions. More update to come soon.
+            </li>
+            <li className="mb-4 border-l-4 border-blue-500 pl-4 leading-6">
+                <strong className="text-blue-500">2024-02-17:</strong> We released{' '}
                 <a className="text-blue-500" href="https://huggingface.co/vistagi/Mixtral-8x7b-v0.1-sft">
                 SFT
                 </a>{' '}

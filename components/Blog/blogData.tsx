@@ -8,7 +8,7 @@ const blogData: Blog[] = [
       "We describe the finetuning experiments we have done to illustrate the effectiveness of SFT and DPO with the state-of-the-art Mixtral 8x7B model.",
     image: "/images/blog/blog-01.jpg",
     author: {
-      name: "Bryan Li",
+      name: "Bryan Wen",
       image: "/images/blog/author-01.png",
       designation: "AI Researcher",
     },
